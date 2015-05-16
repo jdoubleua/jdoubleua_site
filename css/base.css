@@ -1,0 +1,37 @@
+body{
+    padding-bottom: 0px;
+    font-family: 'Open Sans', Arial, Tahoma;
+    color: #363636;
+    background: #ededed;
+    font-size: 13px;
+}
+h1, h2, h3, h4, h5, h6{
+    font-weight: 700;
+    text-transform:uppercase;
+    line-height:1.4em;
+    font-size:1.5em;
+}
+
+h1{
+    font-size: 32px;
+
+}
+
+p{
+    font-family: Verdana;
+    font-size: 12px;
+}
+
+.jumbotron{
+
+    min-height: 350px;
+    background: #ffe8b3;
+    box-shadow: 2px 2px 3px #888888;
+}
+
+.container-main{
+    margin-top: 100px;
+    background: #fff;
+    padding: 0 20px 30px 20px;
+    box-shadow: 2px 2px 3px #888888;
+}
