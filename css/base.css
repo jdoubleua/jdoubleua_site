@@ -35,3 +35,16 @@ p{
     padding: 0 20px 30px 20px;
     box-shadow: 2px 2px 3px #888888;
 }
+
+.navbar-custom{
+    font-size: 48px;
+
+}
+.navbar-brand{
+    display:inline-block !important;
+    float:none !important;
+    text-align: center !important;
+}
+.social-networks{
+    font-size: 48px;
+}
